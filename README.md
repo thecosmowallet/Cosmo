@@ -1,8 +1,8 @@
 <div align="center">
-# ! Current State !
-Cosmo is being rewritten in Rust and moved to a GitHub organization, this repository is considered abandoned (for now).
-# Cosmo
 
+
+# Cosmo is being rewritten in Rust and moved to a GitHub organization, this repository is considered abandoned (for now).
+# Cosmo
 **A Stellar wallet that feels like a messaging app: pay, split, trade, chat and sell to friends, with no username, no email and no custodian.**
 
 Built at **HackMeridian 2026 · Lisbon** (25–26 October 2026)
